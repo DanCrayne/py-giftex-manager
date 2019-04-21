@@ -23,9 +23,9 @@ htmlcov/
 *,cover
 
 # Visual Studio Code
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode
 *.code-workspace
+
+
+# sqlite
+*.sqlite
